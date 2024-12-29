@@ -2,7 +2,7 @@
 ## Contents
 - All About Mini Pies
 ### Sweet Pies
-- 17 Summer Peach Pies (Alternative)[https://www.americastestkitchen.com/recipes/7511-fresh-peach-pie]
+- 17 Summer Peach Pies [Alternative](https://www.americastestkitchen.com/recipes/7511-fresh-peach-pie)
 - 18 Strawberry-Rhubarb Pies
 - 20 Fresh Strawberry Pies
 - 21 Blackberry-Ginger Pies
