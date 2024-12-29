@@ -16,5 +16,11 @@
 - 34 Caramel-Banana Pies
 - 35 Mixed Dried Fruit Pies
 - 36 Pecan Pies
+- 39 Pumpkin Pies
+- 40 Brown Sugar-Fresh Fig Pies
+- 43 Double Apricot Pies
+- 44 Chocolate Cheesecake Pies
+- 47 Classic Apple Pies
+- 48 Dulce de Leche Cheesecake Pies
 ### Savory Pies
 - Ham and Cheese Mini Quiches
