@@ -12,5 +12,9 @@
 - 28 Plum-Ginger Pies
 - 29 Cranberry-Pear Pies
 - 30 Maple-Apple Butter Pies
+- 33 Fresh Sweet Cherry Pies
+- 34 Caramel-Banana Pies
+- 35 Mixed Dried Fruit Pies
+- 36 Pecan Pies
 ### Savory Pies
 - Ham and Cheese Mini Quiches
